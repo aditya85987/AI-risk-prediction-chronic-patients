@@ -1,0 +1,2 @@
+import joblib
+joblib.dump(best_rf_tuned, "model.pkl")

@@ -1,0 +1,12 @@
+Patient_ID,Date,Age,Gender,Ethnicity,FamilyHistoryDiabetes,Height,SystolicBP,DiastolicBP,HeartRate,Weight,BMI,ExerciseMinutes,DietAdherence,SleepHours,SmokingStatus,AlcoholStatus,InsulinDosage,OralHypoglycemic,MedicationAdherence,PrescriptionChange,HbA1c,FastingGlucose,LDL,HDL,Triglycerides,eGFR,Hypertension,CardiovascularDisease,CKD,Neuropathy,Retinopathy,Hospitalization (6M)
+rj91s876u,08-09-2025,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+f79g22j0r,08-09-2025,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+i999q2y0v,08-09-2025,40,Female,Asian,No,,,,,,,0,Moderate,,No,None,,No,Medium,No,,,,,,,No,No,No,No,No,None
+j2i0a8n1w,08-09-2025,45,Male,Asian,No,166,120,80,70,70,25.4,38,Moderate,8,Yes,Heavy,0,Yes,High,Yes,7,110,100,60,100,100,Yes,No,No,Yes,Yes,Multiple
+ry25o92dv,08-09-2025,40,Male,Asian,Yes,170,120,85,80,75,26,47,Excellent,9,Yes,Heavy,2,No,High,No,8,111,100,44,111,88,No,Yes,Yes,No,No,None
+tz9jzm97u,08-09-2025,45,Male,Asian,No,174,,,,,,0,Moderate,,No,None,0,No,High,No,,,,,,,No,Yes,Yes,No,No,One
+f7f7chk5t,08-09-2025,,,,No,,,,,,,0,Moderate,,No,None,,No,Medium,No,,,,,,,No,No,No,No,No,None
+dkquaprs7,08-09-2025,,,,No,,,,,,,0,Moderate,,No,None,,No,Medium,No,,,,,,,No,No,No,No,No,None
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yj7x3dfie,2025-09-09,40,Male,Asian,Yes,175,120,80,73,65,21.2,38,Good,9,Former,Light,0,Yes,Medium,Yes,8,90,101,45,155,88,No,No,Yes,Yes,No,One
+c6isdyi6n,2025-09-09,21,,ASIAN,No,183,,,,,,0,Moderate,,No,None,,No,Medium,No,,,,,,,No,No,No,No,No,None
