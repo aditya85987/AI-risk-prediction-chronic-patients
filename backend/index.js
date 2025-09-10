@@ -9,7 +9,10 @@ const Papa = require("papaparse");
 
 const app = express();
 const PORT = 5000;
-app.use(cors());
+app.use(cors({
+  origin: ["http://localhost:3000", https://ai-risk-prediction-chronic-patients.onrender.com],
+  credentials: true
+}));
 app.use(bodyParser.json());
 
 // ───────────────────────── CSV Setup with ALL headers
